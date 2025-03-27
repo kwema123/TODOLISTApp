@@ -1,0 +1,11 @@
+Attendance,Assignment_Score,Midterm_Score,Final_Score,Outstanding_Balance,Pass_Fail
+80,85,70,75,1000,Pass
+90,75,65,60,2000,Pass
+60,60,50,45,3000,Fail
+75,80,75,70,1500,Pass
+95,90,85,80,500,Pass
+70,65,60,55,2500,Fail
+85,70,68,65,1800,Pass
+55,50,45,40,3500,Fail
+65,72,58,62,2200,Fail
+88,82,78,72,1200,Pass
